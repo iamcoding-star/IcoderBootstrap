@@ -1,5 +1,5 @@
 /* FOR ALERT TO GIVE MARGIN 0 AS IT WAS LEAVING SOME SPACE BETWEEN THE SLIDESHOW  */
-.alert {
+.alert-warning {
     margin-bottom: 0 !important;
 }
 /* FOR THE FOOTER  */
